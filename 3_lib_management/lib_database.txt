@@ -1,0 +1,4 @@
+Python Crash Course
+Head First Python
+Learn Python3 - The Hard Way
+Think PythonAutomate The Boring Stuff with Python
